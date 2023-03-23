@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    background-color: rgba(0, 0, 0, 0.404);
+    background-image: url(https://www.design.svgbackgrounds.com/wp-content/uploads/2021/05/rose-petals-gradient-overlapping-circle-background.jpg);
+}
+#section1{ 
+    background-color: rgb(16, 6, 73);
+    color: rgb(204, 26, 100);
+    text-align:center;
+    padding: 10px;
+    height: 15vh;
+    border: 5px;
+    margin: 10px; 
+
+}
+#section2{
+    background-color: rgb(16, 6, 73);
+    color: rgb(204, 26, 100);
+    padding: none;
+    height: 70vh;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+}
+.subheading1{
+    font-size: 40px;
+    font-weight: 1000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+.subheading2{
+    font-size: 25px;
+    font-weight: 1000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
