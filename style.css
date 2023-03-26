@@ -2,6 +2,7 @@ body{
     margin: 0px;
     background-color: rgba(0, 0, 0, 0.404);
     background-image: url(https://www.design.svgbackgrounds.com/wp-content/uploads/2021/05/rose-petals-gradient-overlapping-circle-background.jpg);
+  
 }
 #section1{ 
     background-color: rgb(16, 6, 73);
@@ -11,7 +12,7 @@ body{
     height: 15vh;
     border: 5px;
     margin: 10px; 
-
+    
 }
 #section2{
     background-color: rgb(16, 6, 73);
@@ -22,6 +23,7 @@ body{
     font-weight: 600;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 10px;
+   
 }
 .subheading1{
     font-size: 40px;
